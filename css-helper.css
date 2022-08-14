@@ -1,0 +1,20 @@
+/*
+Helper css to boostrao build from wirawan candra
+*/
+.focus-form:focus {
+  box-shadow: 0 0 0 0;
+}
+.hidden {
+  display: none;
+}
+.block {
+  display: block;
+}
+@media screen and (min-width: 768px) {
+  .md-hidden {
+    display: none;
+  }
+  .md-block {
+    display: block;
+  }
+}
